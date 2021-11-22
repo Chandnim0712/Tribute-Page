@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(0, 255, 0, 0.2);
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+h1, #title{
+    text-align: center;
+    text-shadow: 5px 5px 10px grey;
+    font-size: 3em;
+    bottom: 0;
+}
+
+blockquote{
+    top: 0;
+}
+
+img{
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 40%;
+}
+
+#main{
+    font-family: monospace;
+}
+
+div #tribute-info{
+    background-color: rgba(0,0,0,0.2);
+    box-shadow: 20px 20px 15px grey;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: justify;
+}
+#title_hedy{
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
